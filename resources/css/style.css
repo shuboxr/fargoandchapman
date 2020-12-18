@@ -68,6 +68,10 @@ a:active {
     font-weight: bold;
 }
 
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 li {
     list-style: none;
 }
@@ -93,6 +97,7 @@ section {
     box-shadow: 3px 3px rgb(255, 0, 0), -3px -3px rgb(0, 255, 0);
     color: white;
     position: absolute;
+    padding: .2rem;
 }
 
 .container {
@@ -109,7 +114,6 @@ section {
 
 .employee h4 {
     font-size: 16px;
-    padding: .1rem;
     width: 60%;
     bottom: 10%;
     right: 10%;
@@ -153,6 +157,10 @@ section {
     padding: 1rem;
 }
 
+#contact h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 #logo {
     display: flex;
     width: fit-content;
@@ -189,7 +197,7 @@ section {
 #splash {
     display: flex;
     color: white;
-    text-shadow: 3px 3px red, -3px -3px rgb(0, 255, 0);
+    text-shadow: 2px 2px red, -2px -2px rgb(0, 255, 0);
     width: 88%;
     max-width: 1000px;
     height: 600px;
