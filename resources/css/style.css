@@ -224,8 +224,6 @@ section {
         grid-template: 3rem / 1fr 1fr;
     }
 
-    main {}
-
     #logo {
         white-space: nowrap;
     }
